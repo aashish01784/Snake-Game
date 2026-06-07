@@ -55,4 +55,4 @@ snake-game/
 
 ## 👩‍💻 Author
 
-**Sai Varshita Morisetty**
+**K Aashish Shri Ram**
